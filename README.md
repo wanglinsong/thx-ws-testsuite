@@ -1,5 +1,5 @@
 
-# thx-ws-api
+# thx-ws-testsuite
 maven template project of test suite for web services testing
 
 ## how to run in commandline

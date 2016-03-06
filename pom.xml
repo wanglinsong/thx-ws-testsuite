@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tascape.qa</groupId>
-    <artifactId>thx-ws-api</artifactId>
+    <artifactId>thx-ws-testsuite</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
@@ -18,7 +18,7 @@
         </dependency>
     </dependencies>
 
-    <name>thx-ws-api</name>
+    <name>thx-ws-testsuite</name>
     <description>maven template project of test suite for web services api testing</description>
     <licenses>
         <license>
