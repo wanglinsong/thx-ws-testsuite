@@ -1,0 +1,20 @@
+{
+    "firstName": "mimi-a",
+    "lastName": "tran-a",
+    "password": "mimi-a-passwd",
+    "emailAddr": "mimi-a@cliqr.com",
+    "companyName": "Cliqr",
+    "phoneNumber": "",
+    "externalId": "",
+    "tenantId": 20,
+    "activationData": {
+        "activateRegions": [
+            {
+                "regionId": "1"
+            }
+        ],
+        "agreeToContract": true,
+        "sendActivationEmail": false,
+        "importApps": []
+    }
+}

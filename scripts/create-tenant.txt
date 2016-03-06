@@ -1,0 +1,22 @@
+{
+    "id": "10",
+    "resource": null,
+    "perms": [],
+    "username": "cliqradmin10",
+    "enabled": true,
+    "type": "TENANT",
+    "firstName": "Cliqr10",
+    "lastName": "Admin10",
+    "companyName": "Cliqr",
+    "tenantId": "10",
+    "emailAddr": "admin10@cliqrtech.com",
+    "emailVerified": false,
+    "phoneNumber": "",
+    "externalId": null,
+    "accessKeys": "https://54.209.173.12/v1/users/10/keys",
+    "disableReason": null,
+    "accountSource": null,
+    "status": "ENABLED",
+    "detail": null,
+    "activationData": null
+}

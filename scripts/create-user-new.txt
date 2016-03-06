@@ -1,0 +1,10 @@
+{
+    "firstName": "mimi-n",
+    "lastName": "tran-n",
+    "password": "mimi-n-passwd",
+    "emailAddr": "mimi-n@cliqr.com",
+    "companyName": "Cliqr, Inc",
+    "phoneNumber": "14085467899",
+    "externalId": "",
+    "tenantId":10 
+}

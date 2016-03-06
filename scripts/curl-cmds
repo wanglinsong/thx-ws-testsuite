@@ -1,0 +1,16 @@
+# create user
+
+
+# get users
+curl -H "Accept:application/json" -H "Content-Type:application/json" -u cliqradmin:466A6C0C1B06D65E -k -X GET https://52.2.234.135/v1/users
+
+# get user access key
+curl -H "Accept:application/json" -H "Content-Type:application/json" -u cliqradmin:466A6C0C1B06D65E -k -X GET https://52.2.234.135/v1/users/2/keys
+
+# delete user
+curl -H "Accept:application/json" -H "Content-Type:application/json" -u cliqradmin:466A6C0C1B06D65E -k -X DELETE https://52.2.234.135/v1/users/2
+
+# get tenants
+curl -H "Accept:application/json" -H "Content-Type:application/json" -u cliqradmin:466A6C0C1B06D65E -k -X GET https://52.2.234.135/v1/tenants
+
+# create tenant
